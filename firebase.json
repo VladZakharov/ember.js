@@ -1,0 +1,8 @@
+{
+  "firebase": "0503embertest",
+  "public": "dist",
+  "rewrites": [{
+    "source": "**",
+    "destination": "/index.html"
+  }]
+}
